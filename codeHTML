@@ -1,1 +1,167 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="CV of Conrad Mateman – Junior Frontend Developer. Experienced in HTML, CSS, JavaScript, accessibility, and responsive web design."
+    />
+    <meta name="author" content="Conrad Mateman" />
+    <meta
+      name="keywords"
+      content="CV, Conrad Mateman, Frontend Developer, HTML, CSS, JavaScript, Portfolio, Resume"
+    />
+    <meta property="og:type" content="website" />
+    <meta
+      property="og:title"
+      content="Conrad Mateman | Junior Frontend Developer"
+    />
+    <meta
+      property="og:description"
+      content="CV of Conrad Mateman – Skills in HTML, CSS, JavaScript, Responsive Design, and Technical Writing."
+    />
+    <meta property="og:image" content="preview.jpg" />
+    <!-- Optional: Add a preview image path -->
+    <meta property="og:url" content="https://yourdomain.com/cv.html" />
+
+    <title>Conrad Mateman – Frontend Developer</title>
+    <link rel="icon" type="image/svg+xml" href="logo.svg" />
+
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        margin: 2rem;
+        line-height: 1.6;
+        background-color: #0f0f0f;
+        color: #ffffff;
+      }
+
+      h1,
+      h2,
+      h3 {
+        margin-bottom: 0.2em;
+      }
+
+      .section-title {
+        color: chartreuse;
+      }
+
+      .job-title {
+        color: aqua;
+      }
+
+      a {
+        color: aqua;
+        text-decoration: none;
+      }
+
+      a:hover {
+        text-decoration: underline;
+      }
+
+      address {
+        font-style: normal;
+        margin-bottom: 1em;
+      }
+    </style>
+  </head>
+
+  <body>
+    <header>
+      <h1>Conrad Mateman</h1>
+      <h2 class="section-title">Junior Frontend Developer</h2>
+      <address>
+        123 Street<br />
+        My City, ST 12345<br />
+        <a href="tel:+11234567890">(123) 456-7890</a><br />
+        <a href="mailto:conradmateme001@gmail.com">conradmateme001@gmail.com</a>
+      </address>
+    </header>
+
+    <main>
+      <section>
+        <h3 class="section-title">Skills</h3>
+        <p>
+          HTML, CSS, JavaScript, Accessibility, Figma to Code, Responsive Web
+          Design, Technical Writing, Presentation
+        </p>
+      </section>
+
+      <section>
+        <h3 class="section-title">Education</h3>
+        <article>
+          <h4 class="job-title">School Name, Location – Degree</h4>
+          <p>
+            <time datetime="20xx-01">Month 20xx</time> to
+            <time datetime="20xx-12">Month 20xx</time>
+          </p>
+          <p>List of exciting things you did at university</p>
+        </article>
+      </section>
+
+      <section>
+        <h3 class="section-title">Experience</h3>
+
+        <article>
+          <h4 class="job-title">Company Name, Location – Job Title</h4>
+          <p>
+            <time datetime="20xx-01">Month 20xx</time> to
+            <time datetime="20xx-12">Month 20xx</time>
+          </p>
+          <ul>
+            <li>List of achievement</li>
+            <li>List of achievement</li>
+            <li>List of achievement</li>
+          </ul>
+          <p>
+            <strong>Skills:</strong> List of skills used or gained at this
+            company
+          </p>
+        </article>
+
+        <article>
+          <h4 class="job-title">Company Name, Location – Job Title</h4>
+          <p>
+            <time datetime="20xx-01">Month 20xx</time> to
+            <time datetime="20xx-12">Month 20xx</time>
+          </p>
+          <ul>
+            <li>List of achievement</li>
+            <li>List of achievement</li>
+            <li>List of achievement</li>
+          </ul>
+          <p>
+            <strong>Skills:</strong> List of skills used or gained at this
+            company
+          </p>
+        </article>
+      </section>
+
+      <section>
+        <h3 class="section-title">Across the Internet</h3>
+        <p>
+          <a
+            href="https://www.linkedin.com/in/conrad-mateman-aa0183370/?originalSubdomain=np"
+            target="_blank"
+            rel="noopener"
+            >LinkedIn</a
+          >
+          |
+          <a
+            href="https://github.com/matchabooiyy"
+            target="_blank"
+            rel="noopener"
+            >GitHub</a
+          >
+        </p>
+      </section>
+    </main>
+
+    <footer>
+      <hr />
+      <p>&copy; 2025 Conrad Mateman. All rights reserved.</p>
+    </footer>
+  </body>
+</html>
 
